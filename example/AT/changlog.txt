@@ -1,52 +1,8 @@
-------------------------------------------------------------------------
-r1036 | zhangj | 2022-12-13 20:48:56 +0800 (二, 13 12月 2022) | 2 lines
-Changed paths:
-   M /fh8626Pro.4g/tools/AT/AT.c
+# changlog update
 
-统一 /dev/tty4G
+1. AT command line
 
-------------------------------------------------------------------------
-r1025 | zhangj | 2022-12-13 10:53:58 +0800 (二, 13 12月 2022) | 2 lines
-Changed paths:
-   M /fh8626Pro.4g/tools/AT/Makefile.jz
+2. AT 支持 L= 支持长超时
 
-clean Makefile
+3. 统一 /dev/tty4G
 
-------------------------------------------------------------------------
-r972 | zhangj | 2022-11-12 09:49:06 +0800 (六, 12 11月 2022) | 2 lines
-Changed paths:
-   M /fh8626Pro.4g/filesys/filesys_normal/ipc/bin/AT
-   M /fh8626Pro.4g/tools/AT/AT.c
-
-AT 支持 L= 支持长超时
-
-------------------------------------------------------------------------
-r936 | zhangj | 2022-11-08 11:58:23 +0800 (二, 08 11月 2022) | 2 lines
-Changed paths:
-   M /fh8626Pro.4g/tools/AT/Makefile
-   A /fh8626Pro.4g/tools/AT/Makefile.jz
-
-更新 Makefile
-
-------------------------------------------------------------------------
-r932 | zhangj | 2022-11-08 10:17:38 +0800 (二, 08 11月 2022) | 2 lines
-Changed paths:
-   M /fh8626Pro.4g/tools/AT/AT.c
-   M /fh8626Pro.4g/tools/AT/jptz_serial.c
-   M /fh8626Pro.4g/tools/AT/jptz_serial.h
-
-AT update
-
-------------------------------------------------------------------------
-r887 | zhangj | 2022-10-24 22:53:55 +0800 (一, 24 10月 2022) | 2 lines
-Changed paths:
-   A /fh8626Pro.4g/tools/AT
-   A /fh8626Pro.4g/tools/AT/AT.c
-   A /fh8626Pro.4g/tools/AT/Makefile
-   A /fh8626Pro.4g/tools/AT/debug.h
-   A /fh8626Pro.4g/tools/AT/jptz_serial.c
-   A /fh8626Pro.4g/tools/AT/jptz_serial.h
-
-AT command line
-
-------------------------------------------------------------------------
