@@ -1,8 +1,0 @@
-# changlog update
-
-1. AT command line
-
-2. AT 支持 L= 支持长超时
-
-3. 统一 /dev/tty4G
-
